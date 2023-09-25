@@ -2,7 +2,7 @@ Hello, I'm an experienced software engineer with a rich history in the ever-evol
 
 ## My Journey in Software Development:
 
-I've spent years honing my skills as a development engineer, specializing in the art of seamlessly integrating and adapting diverse datasets. My toolkit includes a range of programming languages, but I have a particular affinity for Golang and C due to their exceptional resource efficiency.
+I've spent years honing my skills as a development engineer, specializing in the art of seamlessly integrating and adapting diverse datasets. My toolkit includes a range of programming languages, but I have a particular affinity for Golang, .NET(Core), C, Rust and Mojo due to their exceptional resource efficiency.
 
 In the realm of legacy solutions, I've mastered the art of porting and modernizing applications to thrive in the Linux environment, often transforming them into robust online services. Code migration and MSSQL migration are part of my repertoire, ensuring that the core business logic remains intact.
 
