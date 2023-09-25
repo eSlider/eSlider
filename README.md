@@ -20,7 +20,7 @@ Harnessing the power of POSIX shell tools, I deftly thread them together and emp
 
 ## Containerization and Orchestration:
 
-When it comes to isolating server solutions, I turn to Docker for containerization and orchestrate them effectively using Docker-Compose. My skills extend to porting applications into the right infrastructure, whether that's a monolith or microservices architecture, even within the expansive world of AWS. Virtualization tools like VirtualBox, Vagrant, qEMU, and KVM have been my trusted companions for over a decade. Currently, I'm delving into the fascinating realm of Kubernetes as a powerful analog.
+Over the past decade, I've cultivated a deep familiarity with virtualization tools such as VirtualBox, Vagrant, qEMU, and KVM, employing them to create robust, virtualized environments. Additionally, I've recently embarked on a journey into the captivating realm of Kubernetes, recognizing its potential as a powerful counterpart in the orchestration and management of complex systems.
 
 ## Unstructured Data Mastery:
 
