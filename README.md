@@ -12,7 +12,7 @@ Python is another constant companion in my coding adventures, frequently used to
 
 ## Versatility Across Tech Stacks:
 
-I've navigated through the world of LAMP/LNMP solutions, employing databases like PostgreSQL, MySQL, and Sqlite. I'm well-versed in migrating these systems to newer, more efficient stacks, particularly Golang and TypeScript.
+I've navigated through the world of LAMP/LNMP solutions, employing databases like PostgreSQL, MySQL, and Sqlite. I'm well-versed in migrating these systems to newer, more efficient stacks, particularly Golang, Python, .NET, PHP and TypeScript.
 
 ## Command Line Mastery:
 
