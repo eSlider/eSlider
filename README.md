@@ -1,21 +1,37 @@
-Hi, I am a development engineer.
+Hello, I'm an experienced software engineer with a rich history in the ever-evolving landscape of the tech industry.
 
-My primary focus is integration and adaptation of all kinds of data. I use different programming languages, mainly Golang and C because of their efficiency in using computational resources.
+## My Journey in Software Development:
 
-I also use .Net Core and subsequently port existing legacy solutions or develop new ones under Linux to run as online services. Code migration and MSSQL migration will also be possible, preserving the business logic of internal development. I can support the team as a consultant with practical solutions.
+I've spent years honing my skills as a development engineer, specializing in the art of seamlessly integrating and adapting diverse datasets. My toolkit includes a range of programming languages, but I have a particular affinity for Golang and C due to their exceptional resource efficiency.
 
-I also use Python all the time to compute and run AI models, such as Transformer, as a service with a good API (GPT2, NLP/NEP, Libpostal). Among the languages I use are also all JavaScript languages, both Legacy and ECMAScript or TypeScript, and even the more exotic ActionScript3 and HAXE.
+In the realm of legacy solutions, I've mastered the art of porting and modernizing applications to thrive in the Linux environment, often transforming them into robust online services. Code migration and MSSQL migration are part of my repertoire, ensuring that the core business logic remains intact.
 
-I used to and still occasionally run into LAMP/LNMP solutions using PostgreSQL, MySQL and Sqlite. I have experience porting to new stacks, particularly Golang or TypeScript. 
+Diverse Language Proficiency:
 
-I know how to use POSIX shell tools (SH, BASH), or rather combine them using threads and PIPE. In turn, I use them for CI/CD for various deployment systems (Gitlab, Github, Jenkins).
+Python is another constant companion in my coding adventures, frequently used to power AI models like Transformers, offered as services with robust APIs such as GPT2, NLP/NEP, and Libpostal. My language expertise extends to the full spectrum of JavaScript, from legacy to ECMAScript and TypeScript, and even to the more exotic realms of ActionScript3 and HAXE.
 
-To isolate server solutions, I use containerization in Docker and then orchestration in Docker-Compose and porting to the right infrastructure (monolith/microservices), even AWS. I've been using VirtualBox and Vagrant virtualization for 10 years. Also qEMU and KVM. Now I'm exploring K8s as an analog. 
-  
-Recently, I have successfully developed a strategy for typing unstructured data using a variety of approaches, using and running AI models of both off-the-shelf services and external APIs.
+## Versatility Across Tech Stacks:
 
-Along with structuring and storing data I also found a very effective solution to depersonalize, de-organize data (documents, emails), a kind of encryption for further transmission to external services, avoiding the difficulties with the current GDPR legal framework.
+I've navigated through the world of LAMP/LNMP solutions, employing databases like PostgreSQL, MySQL, and Sqlite. I'm well-versed in migrating these systems to newer, more efficient stacks, particularly Golang and TypeScript.
 
-If you are interested in me, contact me. I'm actively looking to apply my knowledge and would be happy to collaborate. 
+## Command Line Mastery:
+
+Harnessing the power of POSIX shell tools, I deftly thread them together and employ pipes for seamless CI/CD across various deployment systems like Gitlab, Github, and Jenkins.
+
+## Containerization and Orchestration:
+
+When it comes to isolating server solutions, I turn to Docker for containerization and orchestrate them effectively using Docker-Compose. My skills extend to porting applications into the right infrastructure, whether that's a monolith or microservices architecture, even within the expansive world of AWS. Virtualization tools like VirtualBox, Vagrant, qEMU, and KVM have been my trusted companions for over a decade. Currently, I'm delving into the fascinating realm of Kubernetes as a powerful analog.
+
+## Unstructured Data Mastery:
+
+Recently, I've achieved significant success in taming unstructured data through a variety of innovative approaches. I've leveraged AI models from off-the-shelf services and external APIs to accomplish this feat.
+
+Data Security and GDPR Compliance:
+
+Beyond structuring and storing data, I've devised effective strategies to depersonalize and de-organize data, essentially providing a form of encryption for secure transmission to external services. This approach navigates the complexities of the GDPR legal framework seamlessly.
+
+## Collaboration Awaits:
+
+If my journey through the ever-evolving landscape of technology resonates with your needs, don't hesitate to reach out. I'm actively seeking opportunities to apply my extensive knowledge and skills, and I'm eager to collaborate on exciting projects.
 
 #javascript #programming #aws #microservices #docker #virtualization #github #linux #cloud #python #mysql #development #data #nlp #ai #strategy #infrastructure #legal #gdpr #experience #business #team #golang #python #typescript #gis
