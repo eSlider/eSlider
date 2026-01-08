@@ -12,5 +12,9 @@ Senior software engineer and DevOps with over 20 years of experience in the tech
 
 I thrive in complex systems, integrating diverse technologies, and turning challenges into streamlined solutions. I share knowledge through blogs, code, and community, and I'm always ready to tackle the next big project.
 
+## Support
+
+If you find my work valuable, consider [sponsoring me](https://github.com/sponsors/eSlider) to help support continued development and open-source contributions.
+
 #javascript #aws #docker #linux #cloud #golang #python #typescript #ai #microservices #devops #gdpr #infrastructure #data #nlp #virtualization #opensource #kubernetes #legacy #modernization
 
