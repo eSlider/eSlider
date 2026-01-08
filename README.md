@@ -16,5 +16,3 @@ I thrive in complex systems, integrating diverse technologies, and turning chall
 
 If you find my work valuable, consider [sponsoring me](https://github.com/sponsors/eSlider) to help support continued development and open-source contributions.
 
-#javascript #aws #docker #linux #cloud #golang #python #typescript #ai #microservices #devops #gdpr #infrastructure #data #nlp #virtualization #opensource #kubernetes #legacy #modernization
-
