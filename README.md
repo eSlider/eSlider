@@ -1,6 +1,6 @@
 # About me
 
-Software engineer and DevOps with over 20 years of experience in the technology field, combining software expertise with mastery of the infrastructure of reliable, scalable, and high-performance systems.
+Software engineer and DevOps with over 10+ years of experience in the technology field, combining software expertise with mastery of the infrastructure of reliable, scalable, and high-performance systems.
 
 **Core Strengths:**
 
