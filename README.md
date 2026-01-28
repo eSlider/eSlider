@@ -1,8 +1,3 @@
-# Andriy Oblivantsev
-
-**Senior Software Engineer & Solution Architect**<br>
-<span style="font-size: 8pt">In Santa Cruz de Tenerife, Spain,
-<a href="mailto:eslider@gmail.com?subject=Resume">eslider@gmail.com</a>, [github.com/eSlider](https://github.com/eSlider)<span>
 
 ## Professional Summary
 
