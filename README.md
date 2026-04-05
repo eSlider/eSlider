@@ -10,13 +10,3 @@ Senior Software Engineer & Solution Architect with **10+ years** in the internet
 - **AI & Automation**: LLM Hosting/Integration, MCP, NLP, OCR, RAG, N8N, Data Depersonalization, GDPR-compliant Strategies
 - **Web & Tools**: React, Vue.js, Node.js, Bun, Deno, Vite, Git, Cargo, Networking (TCP/IP, SSH, VPN/WireGuard), Nginx(SSL, rev./direct proxy)
 
-
-## Wallets
-
-Want to donate money to Open-Source development, buy me a coffee, or hire me for some work? I'd be happy to accept. 
-
-Here are my details: 
-
-* BTC: `34Fmo2n1QZ4nsqZd6tmW6KDHu4tiZXA3RR`
-* USD-T(Tron): `TUymz2xQbJ8cUzBQzbJcDnyJHL4c6pnpPC`
-* Etherium: `0xd80030f1a5014b8a26d9482665efb58f84ae207f`
