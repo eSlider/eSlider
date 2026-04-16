@@ -1,12 +1,11 @@
 
-Senior Software Engineer & Solution Architect with **10+ years** in the internet technology field, combining software expertise with mastery of the infrastructure of reliable, scalable, and high-performance systems in clouds(AWS/Azure/Self-Hosted), like **API Services**, **AI Workflow Automation**, **Virtualization**, **Legacy Modernization** usually **Data Engineering**.
+##  Skills
 
-## Technical Skills
-
-- **Languages**: Go, Python, TypeScript/JavaScript, C#/.NET, PHP, Java, Bash, SQL, Tcl/Tk
-- **Cloud & DevOps**: AWS (Lambda, ECS, Fargate, S3), Azure, GCP, Kubernetes, Docker, Terraform, CI/CD (GitHub Actions), Linux Administration
-- **Data & Storage**: PostgreSQL/PostGIS, TimescaleDB, Redis, Elasticsearch, Kafka, DuckDB, SQLite, MinIO, Data Migration
-- **Architecture & Design**: Microservices, Event-Driven, Serverless, Domain-Driven Design (DDD), Clean Architecture, Legacy Modernization
-- **AI & Automation**: LLM Hosting/Integration, MCP, NLP, OCR, RAG, N8N, Data Depersonalization, GDPR-compliant Strategies
-- **Web & Tools**: React, Vue.js, Node.js, Bun, Deno, Vite, Git, Cargo, Networking (TCP/IP, SSH, VPN/WireGuard), Nginx(SSL, rev./direct proxy)
-
+- **Languages**: Go, Python, SQL, TypeScript/JavaScript, C#/.NET, Bash, Java, Kotlin, PHP, HTML/CSS
+- **Cloud & DevOps**: AWS (Lambda, ECS, Fargate, S3), Kubernetes, Docker, Terraform, GitHub Actions, Linux, CI/CD, observability (Grafana, Loki, Promtail)
+- **Data & Analytics**: ETL/ELT, PostgreSQL/PostGIS, TimescaleDB (time-series, pgvector), ClickHouse (OLAP), DuckDB (Parquet, Hive-style partitioning), dbt, Apache Kafka, Elasticsearch, Redis, Qdrant, Oracle, MySQL, MongoDB
+- **Backend & Architecture**: Microservices, event-driven systems, REST/API services, legacy modernization, performance tuning
+- **Virtualisierung**: KVM, QEMU(inc. docker), VirtualBox, VM Ware. Hardware / Netzwerk setup.
+- **AI & Automation**: Agents-Review, RAG, vLLM, Ollama, OpenAPI, MCP, OCR, n8n, GDPR-aware handling of data
+- **Web (select)**: Vue.js, React, Node.js — WebGIS and internal tooling where relevant
+- **Networking**: TCP/UDP, HTTP, WebSocket, SSH, VPN (OpenVPN, WireGuard), routing, HA clusters
