@@ -1,5 +1,8 @@
+**Website**: https://eslider.github.io/
 
-##  Skills
+Senior Software Engineer — Backend / Data / DevOps · Santa Cruz de Tenerife, Spain · [eslider@gmail.com](mailto:eslider@gmail.com)
+
+## Skills
 
 - **Languages**: Go, Python, SQL, TypeScript/JavaScript, C#/.NET, Bash, Java, Kotlin, PHP, HTML/CSS
 - **Cloud & DevOps**: AWS (Lambda, ECS, Fargate, S3), Kubernetes, Docker, Terraform, GitHub Actions, Linux, CI/CD, observability (Grafana, Loki, Promtail)
