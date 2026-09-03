@@ -68,3 +68,11 @@ Env, YAML, INI and JSON config as Go structs: deep merge, key normalization, and
 | [self-ca](https://github.com/eSlider/self-ca) | private HTTPS certs for any device from your own CA web UI | |
 | [aws-gcp-azure](https://github.com/eSlider/aws-gcp-azure) | one Python app on AWS, GCP and Azure serverless | |
 | [esliderbot](https://github.com/eSlider/esliderbot) | Telegram bot with OpenAI, voice notes, SQLite | |
+
+---
+
+### support
+
+If any of this saves you time, sponsor my open source work: [GitHub Sponsors ♥](https://github.com/sponsors/eSlider)
+
+[![Sponsor on GitHub](https://img.shields.io/github/sponsors/eSlider?label=Sponsor%20on%20GitHub&logo=github&logoColor=white)](https://github.com/sponsors/eSlider)
