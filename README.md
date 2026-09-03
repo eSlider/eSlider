@@ -65,7 +65,7 @@ Env, YAML, INI and JSON config as Go structs: deep merge, key normalization, and
 | [bonsai-ollama](https://github.com/eSlider/bonsai-ollama) | serve Q1_0 GGUFs through an Ollama-compatible API |
 | [go-fdp](https://github.com/eSlider/go-fdp) | Binance klines and aggTrades from public S3, DuckDB + Parquet cache |
 | [aws-gcp-azure](https://github.com/eSlider/aws-gcp-azure) | one Python app on AWS, GCP and Azure serverless |
-| [esliderbot](https://github.com/eSlider/esliderbot) | Telegram bot with OpenAI, voice notes, SQLite |
+| [go-quicktype](https://github.com/eSlider/go-quicktype) · [try it](https://eslider.github.io/go-quicktype/) | backendless quicktype in the browser: typed models from JSON, Schema, TypeScript and GraphQL |
 | [spatialite](https://github.com/eSlider/spatialite) | static SpatiaLite binaries and PHP wrapper |
 | [sassc-binaries](https://github.com/eSlider/sassc-binaries) | static sassc builds for old toolchains |
 
