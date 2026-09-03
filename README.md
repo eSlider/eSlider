@@ -73,6 +73,12 @@ Env, YAML, INI and JSON config as Go structs: deep merge, key normalization, and
 
 ### support
 
-If any of this saves you time, sponsor my open source work: [GitHub Sponsors ♥](https://github.com/sponsors/eSlider)
+If any of this saves you time, sponsor my open source work:
 
-[![Sponsor on GitHub](https://img.shields.io/github/sponsors/eSlider?label=Sponsor%20on%20GitHub&logo=github&logoColor=white)](https://github.com/sponsors/eSlider)
+[![Sponsor on GitHub](https://img.shields.io/github/sponsors/eSlider?label=Sponsor%20on%20GitHub&logo=github&logoColor=white)](https://github.com/sponsors/eSlider) [![ko-fi](https://img.shields.io/badge/ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/eslider) [![Liberapay](https://img.shields.io/badge/Liberapay-Donate-F6C915?logo=liberapay)](https://liberapay.com/eslider)
+
+- [GitHub Sponsors ♥](https://github.com/sponsors/eSlider)
+- [Polar](https://polar.sh/eslider) - best for company sponsorships and EU invoices
+- [Ko-fi](https://ko-fi.com/eslider) - a one-time coffee
+- [Liberapay](https://liberapay.com/eslider) - EU-friendly recurring
+- [Patreon](https://patreon.com/eslider)
