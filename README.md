@@ -1,5 +1,3 @@
-I build self-hosted infrastructure and AI tooling in Go: RAG brains over knowledge graphs, agent-driven delivery pipelines, and clients that glue Matrix, OnlyOffice and local LLMs together.
-
 ### 2dph · 2★
 
 A fact brain. Claims live as graph nodes with evidence and confidence; answers come from deduction search over facts, info and the web, backed by hybrid RAG. Ships with its own ETL.
