@@ -56,16 +56,18 @@ Env, YAML, INI and JSON config as Go structs: deep merge, key normalization, and
 
 ### more
 
-| repo | what it is | |
-|---|---|---|
-| [sassc-binaries](https://github.com/eSlider/sassc-binaries) | static sassc builds for old toolchains | 11★ |
-| [spatialite](https://github.com/eSlider/spatialite) | static SpatiaLite binaries and PHP wrapper | 5★ |
-| [bonsai-ollama](https://github.com/eSlider/bonsai-ollama) | serve Q1_0 GGUFs through an Ollama-compatible API | 2★ |
-| [go-fdp](https://github.com/eSlider/go-fdp) | Binance klines and aggTrades from public S3, DuckDB + Parquet cache | 1★ |
-| [mail-archive](https://github.com/eSlider/mail-archive) | IMAP/POP3 archiving with keyword and vector search | |
-| [self-ca](https://github.com/eSlider/self-ca) | private HTTPS certs for any device from your own CA web UI | |
-| [aws-gcp-azure](https://github.com/eSlider/aws-gcp-azure) | one Python app on AWS, GCP and Azure serverless | |
-| [esliderbot](https://github.com/eSlider/esliderbot) | Telegram bot with OpenAI, voice notes, SQLite | |
+| repo | what it is |
+|---|---|
+| [mail-archive](https://github.com/eSlider/mail-archive) | self-hosted email archive: IMAP/POP3 sync, keyword and vector search |
+| [self-ca](https://github.com/eSlider/self-ca) | on-prem CA: private HTTPS certs for any device |
+| [oo-webdav](https://github.com/eSlider/oo-webdav) | OnlyOffice Documents over WebDAV, pure Go, no Node |
+| [webdav-sharing](https://github.com/eSlider/webdav-sharing) | WebDAV sharing with SFTPGo + MinIO, role-based access |
+| [bonsai-ollama](https://github.com/eSlider/bonsai-ollama) | serve Q1_0 GGUFs through an Ollama-compatible API |
+| [go-fdp](https://github.com/eSlider/go-fdp) | Binance klines and aggTrades from public S3, DuckDB + Parquet cache |
+| [aws-gcp-azure](https://github.com/eSlider/aws-gcp-azure) | one Python app on AWS, GCP and Azure serverless |
+| [esliderbot](https://github.com/eSlider/esliderbot) | Telegram bot with OpenAI, voice notes, SQLite |
+| [spatialite](https://github.com/eSlider/spatialite) | static SpatiaLite binaries and PHP wrapper |
+| [sassc-binaries](https://github.com/eSlider/sassc-binaries) | static sassc builds for old toolchains |
 
 ---
 
